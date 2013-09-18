@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("kata.web.test.unit")]
+[assembly: AssemblyTitle("kata.web.tests.unit")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("kata.web.test.unit")]
+[assembly: AssemblyProduct("kata.web.tests.unit")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6814aee3-d63c-4687-b5a1-87f6d819ddd3")]
+[assembly: Guid("f789c1a7-10f2-4c22-8011-0e3de5fb78d2")]
 
 // Version information for an assembly consists of the following four values:
 //
